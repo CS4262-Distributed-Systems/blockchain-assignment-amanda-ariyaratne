@@ -1,0 +1,29 @@
+
+c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‰õË
+S
+java:S18548"8Remove this useless assignment to local variable "stub".(Â´™¿úÿÿÿÿ
+D
+java:S14818")Remove this unused "stub" local variable.(Â´™¿úÿÿÿÿ
+h	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Óˆ—şÿÿÿÿ
+S	java:S106U"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ
+c	java:S100i"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê±Ì€
+S	java:S106o"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ
+i	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¨«¾ûÿÿÿÿ
+T	java:S106‰"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ
+d	java:S100›"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§’
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ
+i	java:S100¯"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éµáºùÿÿÿÿ
+d	java:S100¿"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾­«’
+T	java:S106Å"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ
+i	java:S100Ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µãûÿÿÿÿ
+T	java:S106ç"9Replace this use of System.out or System.err by a logger.(š™İóûÿÿÿÿ
+i	java:S100ú"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã²ßåûÿÿÿÿ
+T	java:S106€"9Replace this use of System.out or System.err by a logger.(Û¬çŞøÿÿÿÿ
+o
+java:S2293İ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ò´¿
+n
+java:S1192n"XDefine a constant instead of duplicating this literal "Asset %s does not exist" 5 times.(ùã±
+x
+java:S1488s"]Immediately return this expression instead of assigning it to the temporary variable "asset".( Õíâÿÿÿÿÿ
+w
+java:S1488ë"`Immediately return this expression instead of assigning it to the temporary variable "response".(Şæì’
